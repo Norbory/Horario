@@ -139,11 +139,11 @@ window.onload = function () {
   Design - Sara Mazal Web;
   Fonts - Google Fonts
   */
-
+  
   // Get the button:
 let mybutton = document.querySelector(".boton_arriba");
 
-// When the user scrolls down 20px from the top of the document, show the button
+// When the user scrolls down 20px from the top of the document, show the bustton
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
